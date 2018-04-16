@@ -495,9 +495,9 @@ Later, when we use this component via HTML, the syntax will look like:
 
 ### Creating the Box Mesh
 
-[mesh]: https://threejs.org/docs/index.html#Reference/Objects/Mesh
-[threegeometry]: https://threejs.org/docs/index.html#Reference/Geometries/BoxBufferGeometry
-[threematerial]: https://threejs.org/docs/index.html#Reference/Materials/MeshStandardMaterial
+[mesh]: https://threejs.org/docs/index.html#api/objects/Mesh
+[threegeometry]: https://threejs.org/docs/index.html#api/geometries/BoxBufferGeometry
+[threematerial]: https://threejs.org/docs/index.html#api/materials/MeshStandardMaterial
 [setobject3d]: ./developing-with-threejs.md#setting-an-object3d-on-an-entity
 
 Let's create our three.js box mesh from the `.init()`, and we'll later let the
